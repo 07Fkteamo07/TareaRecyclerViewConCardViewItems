@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="userBloodGroup" type="id" />
+    <item name="userHeight" type="id" />
+    <item name="userWeight" type="id" />
+    <item name="userEyeColor" type="id" />
+    <item name="userHairColor" type="id" />
+    <item name="userHairType" type="id" />
+    <item name="userDomain" type="id" />
+    <item name="userIpAddress" type="id" />
+    <item name="userAddress" type="id" />
+    <item name="userCity" type="id" />
+    <item name="userPostalCode" type="id" />
+    <item name="userState" type="id" />
+    <item name="userMacAddress" type="id" />
+    <item name="userUniversity" type="id" />
+    <item name="userCardExpire" type="id" />
+    <item name="userCardNumber" type="id" />
+    <item name="userCardType" type="id" />
+    <item name="userCurrency" type="id" />
+    <item name="userIban" type="id" />
+    <item name="userCompanyAddress" type="id" />
+    <item name="userCompanyCity" type="id" />
+    <item name="userCompanyPostalCode" type="id" />
+    <item name="userCompanyState" type="id" />
+    <item name="userCompanyDepartment" type="id" />
+    <item name="userCompanyName" type="id" />
+    <item name="userCompanyTitle" type="id" />
+    <item name="userEin" type="id" />
+    <item name="userSsn" type="id" />
+</resources>
